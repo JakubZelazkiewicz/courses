@@ -1,2 +1,12 @@
 const today = new Date();
-console.log(today.getVarDate);
+today.getMonth;
+
+const person = {
+  age: 20;
+};
+
+class Color {
+
+}
+
+const red = new Color();
